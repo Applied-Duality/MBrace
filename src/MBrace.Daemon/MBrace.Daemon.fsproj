@@ -76,11 +76,11 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Numerics" />
     <Reference Include="Thespian">
-      <HintPath>..\..\packages\Thespian.0.0.11-alpha\lib\net45\Thespian.dll</HintPath>
+      <HintPath>..\..\packages\Thespian.0.1.0-alpha\lib\net45\Thespian.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Thespian.Cluster">
-      <HintPath>..\..\packages\Thespian.0.0.11-alpha\lib\net45\Thespian.Cluster.dll</HintPath>
+      <HintPath>..\..\packages\Thespian.0.1.0-alpha\lib\net45\Thespian.Cluster.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="UnionArgParser">
